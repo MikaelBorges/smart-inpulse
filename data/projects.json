@@ -1,0 +1,5 @@
+[
+    {"name": "Supermarché", "uuid": "64417d25-0598-49ea-9ca1-2ca901cd106f", "timezone": "Europe/Paris"},
+    {"name": "Bureau", "uuid": "7770b351-ca3e-4d9b-a920-f8dae974ddb0", "timezone": "Europe/Paris"},
+    {"name": "Gare", "uuid": "e6a4a323-c73c-49a6-81b9-075210b9d248", "timezone": "Europe/Paris"}
+]
